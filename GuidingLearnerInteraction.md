@@ -1,4 +1,4 @@
-# Guiding Learner Interaction
+# Guiding Learner Interaction: Dr. Alex
 
 System prompts provide structured guidance to learners, helping them navigate the learning environment and understand what actions to take next. This is particularly important in self-directed learning environments where the learner might not have immediate access to a human instructor.
 
