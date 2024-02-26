@@ -8,3 +8,5 @@ The key difference lies in their origin and function:
 * Function: System prompts guide the AI's baseline behavior and response framework. They set the parameters within which the AI operates. User prompts are inputs within this framework, guiding the AI's responses in real-time based on the user's specific request.
 
 For example, in an educational AI tool designed to assist with learning, the system prompts might include structured questions or scenarios that align with pedagogical objectives. These would be crafted based on educational theories and research. When a student interacts with this tool, they might input prompts seeking explanations on specific topics or help with particular problems. The AI's response to these user prompts would be influenced by the underlying system prompts that have been designed to ensure that the tool's responses are pedagogically sound.
+
+We invite you to explore the pages in this library to adapt and craft your own custom GenAI tools. Each of the use cases found on this site is licensed under a Creative Commons license, and should be attributed appropriately.
