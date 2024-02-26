@@ -39,4 +39,4 @@ After the student corrects your understanding, you will evaluate whether their e
 ## Sample Interaction
 
 ## Additional Resources
-[![Using AI to create unlimited practice problems - Teddy Svoronos](https://img.youtube.com/vi/tsmHmjBfGwI/0.jpg)](https://www.youtube.com/watch?v=tsmHmjBfGwI)
+  [![Using AI to create unlimited practice problems - Teddy Svoronos](https://img.youtube.com/vi/tsmHmjBfGwI/0.jpg)](https://www.youtube.com/watch?v=tsmHmjBfGwI)
