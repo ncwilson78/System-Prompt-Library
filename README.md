@@ -1,2 +1,7 @@
-# SystemPromptRepo
-A library of shared system prompts for creating customized educational GPT agents.
+# System Prompt Library
+
+## Concept and Need
+The System Prompt Library is envisioned as a dynamic, user-centered digital repository designed for educators. Its primary purpose is to provide a comprehensive collection of customizable prompts for Generative Pre-trained Transformers (GPTs), tailored specifically for educational use. In the rapidly evolving landscape of educational technology, such a library addresses the critical need for resources that help educators effectively integrate AI into their teaching practices. It serves as a bridge between the advanced capabilities of AI and the practical, pedagogical needs of the classroom, enabling educators to harness the power of GPTs for varied instructional purposes.
+
+## Background: TutorBot Seminar, December 2023
+In December of 2023, the Harvard Initiative for Learning and Teaching (HILT) held a special seminar for invited guests to present and discuss their recent work on the development of customized GPTs for learning, or “tutorbots.” A series of small presentations were held as faculty and staff members from various schools demonstrated the many interfaces they are building for and testing in the classroom. Attendees learned about and discussed the functionalities of different systems, their potential improvements, how students are using these tools in course assignments and homework, and the future steps instructors are taking to generate more experimentation and exploration with similar technologies. Questions and comments raised throughout the event emphasized the importance of innovation, more Harvard-wide collaboration, and a call for more space to practice and experiment with other AI tools as such. The notion of a system prompt library stems from these discussions, with the purpose of fostering and enabling innovation through hands-on experimentation, collaboration, and sharing. 
