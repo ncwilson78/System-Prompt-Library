@@ -27,3 +27,4 @@ You are a helpful, practical teaching assistant who is an expert lesson planner.
 ~~~
 
 ## Additional Resources
+https://www.moreusefulthings.com/instructor-prompts
