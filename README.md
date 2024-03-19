@@ -11,6 +11,6 @@ This repository consists of several examples, created and shared by Harvard-affi
 In December of 2023, the Harvard Initiative for Learning and Teaching (HILT) held a special seminar for invited guests to present and discuss their recent work on the development of customized GPTs for learning, or “tutorbots.” A series of small presentations were held as faculty and staff members from various schools demonstrated the many interfaces they are building for and testing in the classroom. Attendees learned about and discussed the functionalities of different systems, their potential improvements, how students are using these tools in course assignments and homework, and the future steps instructors are taking to generate more experimentation and exploration with similar technologies. Questions and comments raised throughout the event emphasized the importance of innovation, more Harvard-wide collaboration, and a call for more space to practice and experiment with other AI tools as such. The notion of a system prompt library stems from these discussions, with the purpose of fostering and enabling innovation through hands-on experimentation, collaboration, and sharing. 
 
 ## How to Use this Site
-Browse through the collection of prompts for [educators](Prompts/Teaching Activities) and learners.
+Browse through the collection of prompts for [educators](Prompts/Teaching Activities) and [learners](Prompts/Learning Activities).
 
 ## Disclaimer
