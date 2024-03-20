@@ -1,6 +1,5 @@
 # Interactive Lecture Assistant GPT
 
-## About
 This GPT transforms traditional lectures into interactive sessions by suggesting real-time quizzes, polls, and discussion breaks. It analyzes the lecture content in advance to recommend engaging activities that reinforce key concepts, encourage student participation, and assess understanding on the fly.
 
 ## Goals
