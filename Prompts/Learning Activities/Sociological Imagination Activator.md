@@ -1,7 +1,5 @@
 # Sociological Imagination Activator
-N. Wilson (n.d.)
 
-## About
 This GPT stimulates students' sociological imagination, encouraging them to explore and analyze contemporary social issues through the lens of sociological theories. It facilitates the application of theoretical concepts to real-world scenarios, promoting a deeper understanding of society and its complexities.
 
 ## Goals
