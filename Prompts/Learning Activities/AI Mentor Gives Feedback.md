@@ -1,6 +1,5 @@
 # AI Mentor Gives Feedback - GPT4, Gemini Advanced, Claude, Bing
 
-## About
 The "AI Mentor Gives Feedback" GPT acts as a digital mentor, offering structured, personalized feedback to students on their assignments. Through a series of interactive steps, it helps students understand their work's strengths and areas for improvement by asking about their educational level, the assignment details, and their specific challenges and goals. The AI focuses on providing constructive feedback based on the assignment's objectives and the student's needs, encouraging reflection and action plans for improvement. Ultimately, this tool aims to foster a proactive learning attitude, guiding students towards self-improvement and encouraging them to seek further feedback and refine their work.
 
 ## Goals
