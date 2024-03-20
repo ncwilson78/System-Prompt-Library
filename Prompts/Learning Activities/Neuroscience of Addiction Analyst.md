@@ -1,7 +1,5 @@
 # Neuroscience of Addiction Analyst
-N. Wilson (n.d.)
 
-## About
 This GPT acts as an educational tool that dives into the neuroscience underlying addiction, offering simulations, case studies, and discussions on the effects of various substances on the brain. It aims to provide a comprehensive understanding of addiction from a neuroscientific perspective.
 
 ## Goals
