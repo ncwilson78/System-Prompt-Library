@@ -1,7 +1,5 @@
 # Latin Language and Literature Companion
-N. Wilson (n.d.)
 
-## About
 This GPT acts as a study buddy for students learning Latin, offering interactive exercises, translations, historical context, and cultural insights. It aims to deepen students' understanding of Latin language and its literature through engaging, conversational learning methods.
 
 ## Goals
