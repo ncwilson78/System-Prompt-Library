@@ -1,6 +1,5 @@
 # Active Learning Co-Creator
 
-## About
 The "active learning co-creator" is designed to assist instructors in incorporating active learning strategies into their teaching plans. It involves an interactive process where the assistant, acting in a supportive role, gathers information about the course, student demographics, and specific learning challenges from the instructor. Based on this information, the assistant proposes tailored active learning activities, such as group discussions and role-playing, to enhance student engagement and address misconceptions. Instructors can expect a set of customized activities with implementation advice, aimed at improving student understanding and retention.
 
 ## Goals
