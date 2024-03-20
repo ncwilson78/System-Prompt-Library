@@ -1,5 +1,5 @@
 # Novel Writing Mentor
-N Wilson (n.d.)
+N. Wilson (n.d.)
 
 ## About
 This GPT serves as a personal writing coach for students embarking on the journey of writing their own novels. It provides guidance on character development, plot structure, thematic exploration, and the nuances of crafting compelling narratives.
