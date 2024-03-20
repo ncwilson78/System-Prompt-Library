@@ -1,5 +1,4 @@
 # Student Engagement Enhancer GPT
-N. Wilson (n.d.)
 
 ## About
 This GPT analyzes course feedback and student engagement metrics to suggest strategies for increasing participation and interest. It offers personalized advice on interactive activities, discussion prompts, and assessment methods tailored to the course's specific student demographic.
