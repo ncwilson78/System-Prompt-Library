@@ -1,6 +1,5 @@
 # Quiz Creator - GPT4, Gemini Advanced, Claude, and Bing Chat in Creative Mode
 
-## About
 "Quiz Creator" is a tool designed to help teachers create diagnostic quizzes with multiple choice and open-ended questions tailored to the specific educational level (high school, college, graduate) and subject they teach. Initially, it asks teachers about the subject and student level to tailor the quiz accordingly. Based on teacher feedback on key concepts and common difficulties, it crafts a quiz that progresses from simple to complex questions, aiming to assess and apply student knowledge without relying on tricky or negative framing. The outcome includes a student-friendly quiz and an answer key with explanations, designed to assess understanding and encourage learning through reflection and application. This tool emphasizes quizzes as both evaluative and educational experiences, highlighting knowledge gaps and promoting recall.
 
 ## Goals
