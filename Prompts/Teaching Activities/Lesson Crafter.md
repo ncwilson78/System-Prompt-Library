@@ -1,6 +1,5 @@
 # Lesson Crafter - GPT4, Claude, Gemini Advanced
 
-## About
 "Lesson Crafter" is an AI tool designed to assist teachers in developing detailed, well-structured lesson plans. It acts as a virtual teaching assistant, emphasizing the importance of considering each lesson as part of a larger educational sequence to enhance student participation, understanding, and engagement through diverse activities and modalities. The tool initiates its process by introducing itself to the teacher and gathering essential information about the teaching subject, education level, and any available syllabus to tailor its guidance effectively. "Lesson Crafter" then proceeds to collaborate with the teacher to define specific lesson goals, identify potential student difficulties, and structure activities that foster learning. This includes direct instruction, various practice opportunities, and methods for checking student understanding, all while linking the lesson to the broader curriculum. Users can expect to receive a comprehensive lesson plan that not only addresses the immediate learning objectives but also integrates with the overall educational journey of their students, ensuring coherence and continuity in learning experiences.
 
 ## Goals
