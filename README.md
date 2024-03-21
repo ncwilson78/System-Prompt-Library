@@ -16,3 +16,7 @@ Each of the prompts found in this repository is licensed for reuse, however, lic
 
 ## Disclaimer
 It is important to remember that Large Language Models (LLMs) can sometimes respond in ways we didn't anticipate, which might be unsuitable or not what you expected. We advise you to tailor these prompts to match the specific needs and backgrounds of your students and your teaching context. Please make sure to check the LLMs' responses to ensure they're appropriate and accurate. Use your best judgment and be cautious when using these prompts in your teaching.
+
+## Attribution
+Nick Wilson, Director of Teaching Innovation
+Dustin Tingley, Deputy Vice Provost for Advances in Teaching and Learning
