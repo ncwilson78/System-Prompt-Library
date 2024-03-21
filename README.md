@@ -1,3 +1,5 @@
+![VPAL logo](About/Images/VPAL_logo.jpg)
+
 # System Prompt Library
 
 ## Concept and Need
