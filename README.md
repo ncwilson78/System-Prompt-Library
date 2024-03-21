@@ -1,4 +1,4 @@
-![VPAL logo](About/Images/VPAL_logo.jpg)
+![VPAL logo](About/Images/VPAL_Logo.jpg)
 
 # System Prompt Library
 
