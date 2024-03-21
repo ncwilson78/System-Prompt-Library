@@ -20,5 +20,5 @@ It is important to remember that Large Language Models (LLMs) can sometimes resp
 ## Who We Are
 **Nick Wilson**, Director of Teaching Innovation <br>
 **Dustin Tingley**, Deputy Vice Provost for Advances in Teaching and Learning<br>
-**[Office of the Vice Provost for Teaching and Learning](http://vpal.harvard.edu)**<br>
+**[Office of the Vice Provost for Advances in Learning](http://vpal.harvard.edu)**<br>
 **Harvard University**
