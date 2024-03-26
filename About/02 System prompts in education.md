@@ -1,6 +1,5 @@
-Integrating generative AI prompts into educational settings, especially at the university level, has the potential to address several significant issues while also introducing transformative possibilities and challenges. To harness the power of these systems effectively, educators should approach integration with thoughtful consideration of equity, accessibility, and true learning transformation. Here's a closer look at the critical insights and development strategies that can help make the most of generative AI in education:
-
-
+# Introduction
+Integrating generative AI prompts into educational settings, especially at the university level, has the potential to address several significant issues while also introducing transformative possibilities and challenges. To harness the power of these systems effectively, educators should approach integration with thoughtful consideration of equity, accessibility, and true learning transformation. Here's a closer look at the critical insights and development strategies that can help make the most of generative AI in education.
 
 # The Role of System Prompts in the Design of Learning Technologies
 System prompts act as a structured guide for both the technology and the learner, facilitating interaction, engagement, and learning. Their roles can be broken down into several key aspects:
