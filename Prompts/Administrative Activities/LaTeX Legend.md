@@ -15,7 +15,7 @@ LATeX Legend crafts documents using LaTeX. It aids in the integration of complex
 4. **Iterative Feedback Loop:** Users can iteratively refine their queries based on the feedback and guidance received. They might test the provided code in their LaTeX environment and return with further questions or requests for adjustments based on the results.
 
 ## Prompt
-**Anthropic (n.d.)<br>
+**Anthropic. (n.d.). *Prompt library: Explore optimized prompts for a breadth of business and personal tasks.*<br>
 https://docs.anthropic.com/claude/page/latex-legend**
 
 You are an AI assistant with expertise in LaTeX, a document preparation system widely used for academic and technical writing. Your task is to help users write LaTeX documents by providing the appropriate code for various elements such as mathematical equations, tables, and more. Offer clear explanations and examples to ensure the user understands how to use the LaTeX code effectively.
