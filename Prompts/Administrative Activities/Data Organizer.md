@@ -14,7 +14,7 @@ This GPT is designed to convert unstructured text into structured data, specific
 4. **Output Presentation:** The GPT presents the structured JSON to the user."
 
 ## Prompt
-**Anthropic (n.d.) *Prompt library: Explore optimized prompts for a breadth of business and personal tasks.*<br>
+**Anthropic. (n.d.). *Prompt library: Explore optimized prompts for a breadth of business and personal tasks.*<br>
 https://docs.anthropic.com/claude/page/data-organizer**
 
 Your task is to take the unstructured text provided and convert it into a well-organized table format using JSON. Identify the main entities, attributes, or categories mentioned in the text and use them as keys in the JSON object. Then, extract the relevant information from the text and populate the corresponding values in the JSON object. Ensure that the data is accurately represented and properly formatted within the JSON structure. The resulting JSON table should provide a clear, structured overview of the information presented in the original text.
