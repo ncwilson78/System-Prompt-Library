@@ -14,6 +14,19 @@ To use a specific prompt, simply copy it from the "Copy This Prompt" code block 
 
 Each of the prompts found in this repository is licensed for reuse, however, licensing models have different requirements. Make sure to check the specific licensing requirements before copying, adapting, or sharing a specific system prompt.
 
+## Contribute to the System Prompt Library
+We warmly welcome contributions from educators, developers, and educational technologists who are eager to enhance and expand this resource. If you're interested in contributing, here’s how you can get involved:
+
+1. **Explore Existing Content:** Start by browsing the current prompts in the library to understand the variety and scope of resources available.
+2. **Identify Gaps or Opportunities:** Think about what might be missing or how existing prompts could be improved. Do you have ideas for new prompts that could address specific educational challenges or goals?
+3. **Fork the Repository:** Visit our GitHub page and fork the repository to your own account. This will allow you to make changes without affecting the original project directly.
+4. **Make Your Additions or Improvements:** Add new prompts or update existing ones in your forked repository. Be sure to follow any guidelines provided for contributions to ensure consistency and quality.
+5. **Submit a Pull Request:** Once you’ve made your changes, submit a pull request. This is where you propose your changes to the original repository. Include a clear description of what you've done and why it adds value to the library.
+6. **Review and Merge:** The repository maintainers will review your pull request. If your contributions align with the library’s goals and quality standards, they will merge your changes into the main project.
+
+**If you are unfamiliar with GitHub you can submit a system prompt to be included in the library via our submission form:**<br>
+[Submit a system prompt](<https://harvard.az1.qualtrics.com/jfe/form/SV_40IxbPBVDfmE0Zw>)
+
 ## Disclaimer
 It is important to remember that Large Language Models (LLMs) can sometimes respond in ways we didn't anticipate, which might be unsuitable or not what you expected. We advise you to tailor these prompts to match the specific needs and backgrounds of your students and your teaching context. Please make sure to check the LLMs' responses to ensure they're appropriate and accurate. Use your best judgment and be cautious when using these prompts in your teaching.
 
